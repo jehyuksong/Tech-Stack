@@ -14,7 +14,7 @@
 
 - 바벨의 플러그인과 플러그인들의 집합인 프리셋을 통해 바벨을 설정하고 사용할 수 있다.
 대표적이면서 기본적인 프리셋로는 아래와 같은 것들이 있다.
-- @babel/core
-- @babel/preset-env
-- @babel/preset-react
-- babel-loader
+  - @babel/core
+  - @babel/preset-env
+  - @babel/preset-react
+  - babel-loader
