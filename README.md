@@ -8,6 +8,7 @@
 
 - ### 🚀 Javscript
   * [자바스크립트란?](./docs/Language/Javascript/Javascript.md)
+  * [원시타입vs참조타입](./docs/Language/Javascript/JavascriptType.md)
   
 ---
 
