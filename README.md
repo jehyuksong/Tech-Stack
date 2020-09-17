@@ -9,7 +9,7 @@
 - ### 🚀 Javscript
   * [자바스크립트란?](./docs/Language/Javascript/Javascript.md)
   * [원시타입 vs 참조타입](./docs/Language/Javascript/JavascriptType.md)
-  * [구조 분해 할당](.docs/Language/Javascript/Destructuring.md)
+  * [구조 분해 할당](./docs/Language/Javascript/Destructuring.md)
   
 ---
 
