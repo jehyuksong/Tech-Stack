@@ -46,5 +46,5 @@
 ## Computer Science
 
 - ### 🔒 Security
-  * [인증,암호화(1,2단계)](.docs/Security/AuthenticationLevel1to2.md)
+  * [인증,암호화(1,2단계)](./docs/Security/AuthenticationLevel1to2.md)
 
