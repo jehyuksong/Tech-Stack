@@ -12,6 +12,7 @@
   * [구조 분해 할당](./docs/Language/Javascript/Destructuring.md)
   * [자주 사용되는 배열 함수 11가지](./docs/Language/Javascript/ArrayFunction.md)
   * [호이스팅이란? 변수 생성의 3단계란?](./docs/Language/Javascript/Hoisting.md)
+  * [외부 스크립트 선언 위치 어디가 좋을까?](./docs/Language/Javascript/Script.md)
   
 ---
 
