@@ -16,7 +16,7 @@
   * [변수의 유효 범위](./docs/Language/Javascript/Scope.md)
   * [정규표현식](./docs/Language/Javascript/RegularExpression.md)
 - ### 📲 Javscript 자료구조 & 알고리즘
-  * [스택 Stack](./docs/Language/Javascript/Data Structures & Algorithm/Stack.md)
+  * [스택 Stack](docs/Language/Javascript/DataStructures&Algorithm/Stack.md)
   
 ---
 
